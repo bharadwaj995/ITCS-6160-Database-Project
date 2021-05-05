@@ -1,4 +1,15 @@
+## Contributors:
 
+-   Zi Yao Ngai
+-   Saranyaa Thirumoorthy
+-   Sumanth Kuthuru
+-   Bharadwaj Aryasomayajula
+
+## Domain:
+
+Data Base design of a Restaurant Management system.
+
+## Objective and Design Model 
 This subject area is designed to store information about customers and their orders. It will help us keep our customers happy and keep the quality of our service high. It consists of four tables.
 
 1. Customer  
