@@ -45,6 +45,6 @@ It has a unique value and a status is assigned at the same moment when the corre
 
 ***Order_status and customer_order:*** The order_status and Customer_order has one to many relationships which means an order status can belong to zero to many customer orders but customer order can have only one order_status.
 
-****USE CASE Diagram / EERD Diagram_rating_Implementation****
+## USE CASE Diagram / EERD Diagram_rating_Implementation ##
 
 ![enter image description here](https://lh3.googleusercontent.com/iuVd-HdxstSTYlwafmRzEQMDbu55zQKX7aw7B6mpKj0DcoIUWnAH5qZlcw7N_XYqYdKfMtFfQg68_3DfoWKbdGSY1Kz2doHLN7pm1Ya9PZi9qPuCjwdaxtadgzLbWse0Q9PUU2Ve4QL4H76V_Uoq8MAyOvfoqr911BBqmPdBLpdMbShrwdAWZNVEQBifTU_dghl2jDMP_lVJk_izZhVnA0-bPzPMSJOlxCe_t4_-cHqfbP3WjVE_bedE6abS66NC5JFcgiGkDIWwKDSMyAuwWvh82TogmD2hqEN2NI8XowOFnqDhWgmP78lwSy5Ga_W_m37sjBpW--A7Yp5I7L_ANaYovmusabpXs55mrsJ3PelbbOG2e48d8QWEtc5O9l6UwhHh5mMOCHnZDKi5-ZwFYyenMfNUCwsVadb7qRbXSXcel3HL9X527kjn4vNrBCsdSpcsYkyQcSSaaWzZplbadrLU9fGcTJFNqe6wa2mXWU3keWi9KkN4uiN7ObW_BWN7GLgEBEk294YYoRzX9BCRmzi2-1PBpQbQzCfJ9rxhISewb8ahbS9ma515U1w41zTDGra2MZcCB50Tsmm5ujnrov3X2cYoZLOybJrAm3qG_qk-1TTJdkSkp_YjNAiFdQIus-AF9M3Lp4Uq2O6T3a49UZiWGlYjRnQG2CU8Ypvb7MD1KpJmeE2g8YYyAh5dNY9eBy8UA6wy48sgTB_4GHyVyA0=w1524-h1498-no?authuser=2)
