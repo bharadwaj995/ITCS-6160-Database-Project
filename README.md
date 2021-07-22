@@ -7,7 +7,7 @@
 
 ## Domain:
 
-Data Base design of a Restaurant Management Deliery and Ratings Implementation system.
+Data Base design of a Restaurant Management Delivery and Ratings Implementation system.
 
 ## Objective and Design Model 
 This subject area is designed to store information about customers and their orders. It will help us keep our customers happy and keep the quality of our service high. It consists of four tables.
